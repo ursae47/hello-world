@@ -21,7 +21,7 @@ int main()
 								//case it's telling the application to hold the text on the console screen
 								//until we get input from the keyboard.
 	
-	cout << "test" << endl;
+	cout << "test 2" << endl;
 	
 	return 0;
 }
